@@ -1,0 +1,34 @@
+[
+  {
+    "path": "mods/HouseProtect-1.20.1-1.1.5.jar",
+    "sha256": "3abd787af114fa7b86b321c7b1e3a8e8c38af904fab58cf21360e4825b430837"
+  },
+  {
+    "path": "mods/Partymap-1.0.0.jar",
+    "sha256": "4ad25da14e610442a8fd39c57bc1dc13ed58d4047f9f9bcc14da0e1a7ad08d9c"
+  },
+  {
+    "path": "mods/deadzone-client-1.0.0.jar",
+    "sha256": "1396267f87d3cc9286fa4b7aa9bab41bba9c0057d0764dc262a2d6d7f98a0065"
+  },
+  {
+    "path": "mods/directionhud-1.0.0.jar",
+    "sha256": "c3b361709fa2cd7d69385bf34302257c811f4f8fdf97aa6e0551c61422f164e4"
+  },
+  {
+    "path": "mods/doorlock-1.20.1-1.0.0.jar",
+    "sha256": "5157ea05dbaf40743d81dc9bd712bd5038498e2fcec5b33a9a964e80aee04cbb"
+  },
+  {
+    "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+    "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+  },
+  {
+    "path": "mods/warpnpc-1.0.0.jar",
+    "sha256": "bba96d0419a4efc1fa6720d074faf0d5bbc1175951d3f3c4489d7f32dd3f9fab"
+  },
+  {
+    "path": "mods/warznpc-1.0.0.jar",
+    "sha256": "5bd3f2819e9660b615d40190cd84cd73fa4946ac328fa4c8d937299d86495c96"
+  }
+]

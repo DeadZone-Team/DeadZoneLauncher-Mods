@@ -1,0 +1,30 @@
+name: Publish Modpack manifest
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*.jar'
+      - 'legacy-obsolete.json'
+      - 'tools/generate_manifest.py'
+      - '.github/workflows/update-manifest.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Regenerate SHA-256 manifest for this source revision
+        run: python3 tools/generate_manifest.py --revision "${{ github.sha }}"
+      - name: Commit and push manifest if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update manifest for mod source ${{ github.sha }}"
+            git push
+          fi

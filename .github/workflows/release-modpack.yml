@@ -1,0 +1,5 @@
+cd โฟลเดอร์-repo-DeadZoneLauncher-Mods
+cp "f:\DeadZoneLauncherv.7\mod\release-modpack.yml" .github/workflows/
+git add .github/workflows/release-modpack.yml
+git commit -m "เพิ่ม workflow สร้าง ZIP release"
+git push

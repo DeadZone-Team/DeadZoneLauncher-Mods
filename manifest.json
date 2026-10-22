@@ -1,240 +1,246 @@
 {
   "schemaVersion": 1,
-  "packVersion": "mods-aa3301b4a522",
+  "packVersion": "mods-f09579d6bb25",
   "files": [
     {
       "path": "mods/acguard-1.0.0.jar",
       "size": 55213,
       "sha256": "6568c10fcf2f7fcc134b6ae93352f4c17bf50f3d39a6504cf52daf0aaacaf586",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/acguard-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/acguard-1.0.0.jar"
     },
     {
       "path": "mods/airdrop-1.0.0.jar",
       "size": 148071,
       "sha256": "7238cf7d15a004ad9e25d5ccad3e9a896d0115b0154d003069f172a434595eeb",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/airdrop-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/airdrop-1.0.0.jar"
     },
     {
       "path": "mods/architectury-9.2.14-forge.jar",
       "size": 580602,
       "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/architectury-9.2.14-forge.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/architectury-9.2.14-forge.jar"
     },
     {
       "path": "mods/Arena Breakout Infinite Melee Pack-0.1.0.jar",
       "size": 6027969,
       "sha256": "f41122e68eab195db5b7d8e33bb5b71e86c8df456ff4dffb1325f28495bb23d2",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/Arena%20Breakout%20Infinite%20Melee%20Pack-0.1.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/Arena%20Breakout%20Infinite%20Melee%20Pack-0.1.0.jar"
     },
     {
       "path": "mods/atmmod-1.0.0.jar",
       "size": 78019,
       "sha256": "3eb560dcc12218980e06090de48c5eb599692ae0bd1a5e4813bb9b3aea5b7076",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/atmmod-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/atmmod-1.0.0.jar"
     },
     {
       "path": "mods/BlueGoldCleanerTrade-1.0.0.jar",
       "size": 44379,
       "sha256": "46a4003c6ee00ca8bc0904b9da1b7f5d0bf432f4c0fcab6f656cea076dcf08e5",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/BlueGoldCleanerTrade-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/BlueGoldCleanerTrade-1.0.0.jar"
     },
     {
       "path": "mods/bountygame-client-1.0.0.jar",
       "size": 753947,
       "sha256": "779937f77d2c292b943bc0c63cefe8473c9dedf0941cc00fc5a504a14ce6b4d0",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/bountygame-client-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/bountygame-client-1.0.0.jar"
     },
     {
       "path": "mods/c4mod-1.20.1-1.0.0.jar",
       "size": 100417,
       "sha256": "d667aa06f997ebbd128f0c646557910d72930db77ef8b5b19557e2d5000b003c",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/c4mod-1.20.1-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/c4mod-1.20.1-1.0.0.jar"
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "size": 1181413,
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/cloth-config-11.1.136-forge.jar"
     },
     {
       "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
       "size": 20300,
       "sha256": "8af01712c0dc32cebaff31795ca6d223fddff2ea9b1f5efbd9c3a586a0dacbc0",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/Clumps-forge-1.20.1-12.0.0.4.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/Clumps-forge-1.20.1-12.0.0.4.jar"
     },
     {
       "path": "mods/corpse-forge-1.20.1-1.0.23.jar",
       "size": 245644,
       "sha256": "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/corpse-forge-1.20.1-1.0.23.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/corpse-forge-1.20.1-1.0.23.jar"
     },
     {
       "path": "mods/csgochestmod-1.0.1.jar",
       "size": 61933,
       "sha256": "e932533face1aedaf389c5fa1871e89d7a3fb113110ec3445afcb22300c3e391",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/csgochestmod-1.0.1.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/csgochestmod-1.0.1.jar"
     },
     {
       "path": "mods/deadzone-modcheck-1.0.0.jar",
       "size": 22968,
       "sha256": "c0d6c19ad421cb804b8c196776638b5e8cb29b9961c140ac3c858b58d505795c",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/deadzone-modcheck-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/deadzone-modcheck-1.0.0.jar"
     },
     {
       "path": "mods/DeadZoneAuthMod-1.0.0.jar",
       "size": 19787,
       "sha256": "6f7362253f09d45012d2a34b691b105f8edc15288ca573c360d61acc8eef769f",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/DeadZoneAuthMod-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/DeadZoneAuthMod-1.0.0.jar"
     },
     {
       "path": "mods/deadzoneclient-2.4.0.jar",
       "size": 5499820,
       "sha256": "81d48490c96ede2c897231577c327b18757d51d85245c6a3d761d356fb68729b",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/deadzoneclient-2.4.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/deadzoneclient-2.4.0.jar"
     },
     {
       "path": "mods/DeltaForce Melee Pack-0.2.0.jar",
       "size": 10380850,
       "sha256": "e0ccce77d58d0e480aedbebf50234c11ac19cc79016fab477232cb9cec4aaf0b",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/DeltaForce%20Melee%20Pack-0.2.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/DeltaForce%20Melee%20Pack-0.2.0.jar"
     },
     {
       "path": "mods/directionhud-1.1.0.jar",
       "size": 28205,
       "sha256": "11d24f6d47b060c76e71c5689d4764c100ec1c371e86c7d23fe688072426dfd7",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/directionhud-1.1.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/directionhud-1.1.0.jar"
     },
     {
       "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
       "size": 402345,
       "sha256": "b0ecdf3a0619208441062ceeebce79256223ac4e341844a09a6859170d671920",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar"
     },
     {
       "path": "mods/dzsoldier-forge-1.20.1-1.0.5.jar",
       "size": 129973,
       "sha256": "e0b5e36de143e8fc4ea6eed0d7eb545879b5e9c3cff66d7d93a636aa1507193b",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/dzsoldier-forge-1.20.1-1.0.5.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/dzsoldier-forge-1.20.1-1.0.5.jar"
     },
     {
       "path": "mods/entityculling-forge-1.11.3-mc1.20.1.jar",
       "size": 1515076,
       "sha256": "86de2a9fc6538bc26e71e5393ae72018eb9bb349a5dbaa0645fd194da5654b66",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/entityculling-forge-1.11.3-mc1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/entityculling-forge-1.11.3-mc1.20.1.jar"
     },
     {
       "path": "mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
       "size": 10409,
       "sha256": "559115ba1031affa8733c89c4558f44cc97471210f28de7437270684b4242f7a",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar"
     },
     {
       "path": "mods/ferritecore-6.0.1-forge.jar",
       "size": 123034,
       "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/ferritecore-6.0.1-forge.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/ferritecore-6.0.1-forge.jar"
     },
     {
       "path": "mods/FpsReducer2-forge-1.20.1-2.5.1.jar",
       "size": 125660,
       "sha256": "997f034210e0fca20fa5a0e6ddd370c5444854fc97e69910161104160cea41ce",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/FpsReducer2-forge-1.20.1-2.5.1.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/FpsReducer2-forge-1.20.1-2.5.1.jar"
     },
     {
       "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
       "size": 1038209,
       "sha256": "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/geckolib-forge-1.20.1-4.8.4.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/geckolib-forge-1.20.1-4.8.4.jar"
     },
     {
       "path": "mods/Gunfire Overhaul-0.1.6-a.jar",
       "size": 6125997,
       "sha256": "dab997ea3593b110f8220abd4a90038e0a431cac5900a6ec60f6f2212fca9aa6",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/Gunfire%20Overhaul-0.1.6-a.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/Gunfire%20Overhaul-0.1.6-a.jar"
     },
     {
       "path": "mods/HouseProtect-DoorLock-Party-1.20.1-2.1.3.jar",
       "size": 498369,
       "sha256": "38c316c34f260aa5f7577090a48851f62e56f64ca6b3fa879816cdef99c44d3a",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/HouseProtect-DoorLock-Party-1.20.1-2.1.3.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/HouseProtect-DoorLock-Party-1.20.1-2.1.3.jar"
     },
     {
       "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
       "size": 532063,
       "sha256": "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar"
     },
     {
       "path": "mods/lrtactical-1.20.1-0.4.3.jar",
       "size": 6614642,
       "sha256": "930372cab33e1f563f597c74f9155b5ed25e6f2b0ff7e12dfc86255e1020ef2d",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/lrtactical-1.20.1-0.4.3.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/lrtactical-1.20.1-0.4.3.jar"
     },
     {
       "path": "mods/mgglass-1.0.0.jar",
       "size": 21719,
       "sha256": "02b86df376006afab89b3de069dc15102fe2e6f304974d5a5c7a339ddb52a281",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/mgglass-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/mgglass-1.0.0.jar"
     },
     {
       "path": "mods/modernfix-forge-5.27.89+mc1.20.1.jar",
       "size": 1010226,
       "sha256": "96750ec3e12b581ee7a936ce2b7c2b35251e97b6f729b2db8bc0d5c9a2dc12fa",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/modernfix-forge-5.27.89%2Bmc1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/modernfix-forge-5.27.89%2Bmc1.20.1.jar"
     },
     {
       "path": "mods/MTLCASINO-1.05.jar",
       "size": 132610,
       "sha256": "e45d462dcf22ce7eab33531e81dea57327511dbe6e6ca6ba47369ab894ca3098",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/MTLCASINO-1.05.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/MTLCASINO-1.05.jar"
     },
     {
       "path": "mods/pubgdown-1.0.0.jar",
       "size": 55682,
       "sha256": "a11a487f9f9f0e218c97625eb78d98d3e7e613025b4047b3edfe6c907836a185",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/pubgdown-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/pubgdown-1.0.0.jar"
     },
     {
       "path": "mods/PubgParachute-1.20.1-1.0.0.jar",
       "size": 90038,
       "sha256": "3474a275979ea4a9d0fc6708081d91b4e49070b518cfc03d773a78e53bd2b50a",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/PubgParachute-1.20.1-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/PubgParachute-1.20.1-1.0.0.jar"
     },
     {
       "path": "mods/rustchest-mod-1.1.0.jar",
       "size": 38951,
       "sha256": "9af96aba991f2c2fa9c807a388d6fa5f361c25affc10a43d2ec9577a65403adb",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/rustchest-mod-1.1.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/rustchest-mod-1.1.0.jar"
     },
     {
       "path": "mods/sellshop-1.20.1-1.3.2.jar",
       "size": 114963,
       "sha256": "627e465e1eeede768113d1b16957ddd592b8e66961623ebe276eea7678b3c447",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/sellshop-1.20.1-1.3.2.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/sellshop-1.20.1-1.3.2.jar"
     },
     {
       "path": "mods/super_resolution-forge-1.20.1-0.9.2-alpha.2+opengl.jar",
       "size": 33548982,
       "sha256": "473db9d19088c05f7251d32465b1b2cde4ae264d9cde8719c4380a87b9e2b55d",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/super_resolution-forge-1.20.1-0.9.2-alpha.2%2Bopengl.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/super_resolution-forge-1.20.1-0.9.2-alpha.2%2Bopengl.jar"
     },
     {
       "path": "mods/survival_instinct-1.0.2-forge-1.20.1.jar",
       "size": 2136620,
       "sha256": "9f73d8ec5fcf6bb6641f46c0484c63dbfc4ed883c73f7dbbad38de8fcc753e62",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/survival_instinct-1.0.2-forge-1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/survival_instinct-1.0.2-forge-1.20.1.jar"
     },
     {
       "path": "mods/tacz-1.20.1-1.1.8-hotfix.jar",
       "size": 57465167,
       "sha256": "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/tacz-1.20.1-1.1.8-hotfix.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/tacz-1.20.1-1.1.8-hotfix.jar"
     },
     {
       "path": "mods/warpnpc-2.0.0.jar",
       "size": 88493,
       "sha256": "380fc2f2f05cec1cbbcef1306203e42afec37587cc455d25dcdeacb4f4ffa5ae",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/warpnpc-2.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/warpnpc-2.0.0.jar"
     },
     {
       "path": "mods/woodsman-2.0.0.jar",
       "size": 77975,
       "sha256": "a9b173054a58c8d0bba17fec32d1e1b4c75c242d85a009df551a88761651b15b",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/aa3301b4a52241d80cd5a1d3ccab0bbceb6c6724/woodsman-2.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f09579d6bb2575455866d759f1caaf3c42e39cef/woodsman-2.0.0.jar"
     }
   ],
   "obsolete": [

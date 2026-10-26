@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "packVersion": "mods-08ed0f855915",
+  "packVersion": "mods-f9df597022a6",
   "files": [
     {
-      "path": "mods/cloth-config-11.1.136-forge.jar",
-      "size": 1181413,
-      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/08ed0f85591505bebe2cd1571a654eda5bcd7381/cloth-config-11.1.136-forge.jar"
+      "path": "mods/shopmod-1.0.0.jar",
+      "size": 79911,
+      "sha256": "782954a24736c2ae040b721c25af828aa6da1c7afce360179d5cea5408b19e1b",
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f9df597022a686cd7bc3dfdc7fea027a79442535/shopmod-1.0.0.jar"
     }
   ],
   "obsolete": [

@@ -1,24 +1,18 @@
 {
   "schemaVersion": 1,
-  "packVersion": "mods-8b4c70f95dcd",
+  "packVersion": "mods-07a818836503",
   "files": [
     {
       "path": "mods/cloth-config-11.1.136-forge.jar",
       "size": 1181413,
       "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/8b4c70f95dcd0512cdbb4e683a3b0dc32b1a8c59/cloth-config-11.1.136-forge.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/07a81883650393b5185f4791aa6afe9e5d82f735/cloth-config-11.1.136-forge.jar"
     },
     {
       "path": "mods/super_resolution-forge-1.20.1-0.9.2-alpha.2+opengl.jar",
       "size": 33548982,
       "sha256": "473db9d19088c05f7251d32465b1b2cde4ae264d9cde8719c4380a87b9e2b55d",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/8b4c70f95dcd0512cdbb4e683a3b0dc32b1a8c59/super_resolution-forge-1.20.1-0.9.2-alpha.2%2Bopengl.jar"
-    },
-    {
-      "path": "mods/woodenbarricade-1.0.0.jar",
-      "size": 79525,
-      "sha256": "3e3b5680eba7d0474e3d5dbaa15ff0ac0e8b6bbcdd9dd00a3458b4838bc748cd",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/8b4c70f95dcd0512cdbb4e683a3b0dc32b1a8c59/woodenbarricade-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/07a81883650393b5185f4791aa6afe9e5d82f735/super_resolution-forge-1.20.1-0.9.2-alpha.2%2Bopengl.jar"
     }
   ],
   "obsolete": [

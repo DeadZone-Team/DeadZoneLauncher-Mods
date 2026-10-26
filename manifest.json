@@ -1,12 +1,18 @@
 {
   "schemaVersion": 1,
-  "packVersion": "mods-f9df597022a6",
+  "packVersion": "mods-5f60e87185a8",
   "files": [
+    {
+      "path": "mods/DeadZoneAuthMod-1.0.0.jar",
+      "size": 20279,
+      "sha256": "7a511f1aadbcb71e4bbe08cc36ce4266359f4fd44b440c69895f5914ef008a78",
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/5f60e87185a83276400404f4ce4f90db8702e9b1/DeadZoneAuthMod-1.0.0.jar"
+    },
     {
       "path": "mods/shopmod-1.0.0.jar",
       "size": 79911,
       "sha256": "782954a24736c2ae040b721c25af828aa6da1c7afce360179d5cea5408b19e1b",
-      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/f9df597022a686cd7bc3dfdc7fea027a79442535/shopmod-1.0.0.jar"
+      "url": "https://raw.githubusercontent.com/DeadZone-Team/DeadZoneLauncher-Mods/5f60e87185a83276400404f4ce4f90db8702e9b1/shopmod-1.0.0.jar"
     }
   ],
   "obsolete": [
